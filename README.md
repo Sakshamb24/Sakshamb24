@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on: **GitHub Clone**  
 🌱 I’m actively contributing to **open-source projects**  
-💼 SDE Intern at **Jaquar**  
+💼 SDE Intern at **Avalon Information Systems**  
 📫 Reach me at: **sakshambhardwaj2824@gmail.com**  
 📍 B.Tech CSE '26 | Focused on building real-world products
 
